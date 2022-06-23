@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FT9ja-real-time-dashboard/static/css/main.d9dfc2e8.css",
+    "main.js": "/FT9ja-real-time-dashboard/static/js/main.a056428f.js",
+    "static/js/787.ee364dac.chunk.js": "/FT9ja-real-time-dashboard/static/js/787.ee364dac.chunk.js",
+    "index.html": "/FT9ja-real-time-dashboard/index.html",
+    "main.d9dfc2e8.css.map": "/FT9ja-real-time-dashboard/static/css/main.d9dfc2e8.css.map",
+    "main.a056428f.js.map": "/FT9ja-real-time-dashboard/static/js/main.a056428f.js.map",
+    "787.ee364dac.chunk.js.map": "/FT9ja-real-time-dashboard/static/js/787.ee364dac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9dfc2e8.css",
+    "static/js/main.a056428f.js"
+  ]
+}
